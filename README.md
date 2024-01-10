@@ -1,4 +1,4 @@
-### Hello world, I'm Karina 👋
+Hello world, I'm Karina 👋
 
 
 - 🌱 I’m currently learning programming language.
