@@ -1,4 +1,4 @@
-![](background.gif)
+![](background2.gif)
 
 - 🌱 I’m currently learning programming language.
 - 📫 How to reach me : felikarina@yahoo.fr
