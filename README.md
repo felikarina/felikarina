@@ -1,5 +1,4 @@
-Hello world, I'm Karina 👋
-
+![](background.gif)
 
 - 🌱 I’m currently learning programming language.
 - 📫 How to reach me : felikarina@yahoo.fr
