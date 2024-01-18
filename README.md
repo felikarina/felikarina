@@ -1,6 +1,6 @@
 ![](background2.gif)
 
 - 🌱 I’m currently learning programming language.
-- 📫 How to reach me : felikarina@yahoo.fr
+- 📫 How to reach me : felikarina@etik.com
 - ⚡ Fun fact : the school where I study and my daughter has the same first name,
   Ada, coming from the inspiring Ada Lovelace.
