@@ -5,4 +5,4 @@
 - ⚡ Fun fact : the school where I study and my daughter has the same first name,
   Ada, coming from the inspiring Ada Lovelace.
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felikarina&layout=compact&theme=dark&size_weight=1&count_weight=0&langs_count=8&hide=html,css)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felikarina&layout=compact&theme=dark&size_weight=0.5&count_weight=0.5&langs_count=8&hide=html,css)
