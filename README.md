@@ -23,4 +23,4 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=felikarina&theme=algolia&title=-Stars,-Issues,-Reviews)
 
-![Snake animation](https://github.com/felikarina/felikarina/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/felikarina/blob/output/github-contribution-grid-snake.svg)
