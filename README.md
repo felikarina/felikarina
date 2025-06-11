@@ -22,5 +22,4 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a> </p>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=felikarina&theme=algolia&title=-Stars,-Issues,-Reviews)
-
-![Snake animation](https://github.com/felikarina/blob/output/github-contribution-grid-snake.svg)
+![github-user-contribution](https://github.com/user-attachments/assets/d284374d-400a-413a-8b25-6247f4048773)
