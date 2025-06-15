@@ -1,10 +1,8 @@
 ![](background2.gif)
 
-- 🌱 I’m currently learning programming language.
-- 👨‍💻 All of my projects are available at [https://felikarina.github.io/](https://felikarina.github.io/)
-- 📫 How to reach me : felikarina@etik.com
-- ⚡ Fun fact : the school where I study and my daughter has the same first name,
-  Ada, coming from the inspiring Ada Lovelace.
+- 🌱 Apprentie dévelloppeuse fullstack en herbe
+- 👨‍💻 Projet du moment : Bambin appli de communication parents - crèche [lien repo Github](https://github.com/felikarina/bambin)     [lien site déployé sur Vercel](https://bambin-git-main-felikarinas-projects.vercel.app/#/connexion)
+- 📫 Mail de contact : felikarina@etik.com
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felikarina&layout=compact&theme=dark&size_weight=0&count_weight=0.5&langs_count=10&hide=html,css,vbscript,shell,java)
 </p>
