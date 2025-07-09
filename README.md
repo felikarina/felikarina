@@ -21,6 +21,6 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=felikarina&theme=algolia&title=-Stars,-Issues,-Reviews)
 
-![github-user-contribution (5)](https://github.com/user-attachments/assets/bf69756d-7bd1-4490-aa5f-0af4650a87ea)
+![github-user-contribution (6)](https://github.com/user-attachments/assets/e8e78bef-eedf-4229-922d-38b5f7f48c76)
 
 
