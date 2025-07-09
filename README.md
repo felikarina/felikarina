@@ -1,7 +1,7 @@
 ![](background2.gif)
 
 - 🌱 Apprentie dévelloppeuse fullstack en herbe
-- 👨‍💻 Projet du moment : Bambin appli de communication parents - crèche [lien repo Github](https://github.com/felikarina/bambin)  ------   [lien site déployé sur Vercel](https://bambin-git-main-felikarinas-projects.vercel.app/#/connexion)
+- 👨‍💻 Projet du moment : Bambin appli de communication parents - crèche [lien repo Github](https://github.com/felikarina/bambin)  ------   [lien site déployé sur Vercel](https://bambin-seven.vercel.app/#/)
 - 📫 Mail de contact : felikarina@etik.com
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felikarina&layout=compact&theme=dark&size_weight=0&count_weight=0.5&langs_count=10&hide=html,css,vbscript,shell,java)
