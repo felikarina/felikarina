@@ -19,8 +19,6 @@
 <br>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a> </p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=felikarina&theme=algolia&title=-Stars,-Issues,-Reviews)
+![](https://github-trophies.vercel.app/?username=felikarina&theme=radical&title=MultiLanguage,LongTimeUser,Commit,PR,Repositories,Followers)
 
-![github-user-contribution (6)](https://github.com/user-attachments/assets/e8e78bef-eedf-4229-922d-38b5f7f48c76)
-
-
+![github-user-contribution (7)](https://github.com/user-attachments/assets/05a294aa-1e2b-4906-9496-7ab5f626b88e)
