@@ -21,4 +21,4 @@
 
 ![](https://github-trophies.vercel.app/?username=felikarina&theme=radical&title=MultiLanguage,LongTimeUser,Commit,PR,Repositories,Followers)
 
-![github-user-contribution (7)](https://github.com/user-attachments/assets/05a294aa-1e2b-4906-9496-7ab5f626b88e)
+![github-user-contribution (8)](https://github.com/user-attachments/assets/7cb64bf1-e696-49dc-aac4-af9c015cebfb)
